@@ -1,2 +1,4 @@
 # hello-world
-hello world SEC 205 Adam Webb
+hello world
+SEC 205 Adam Webb
+Github setup
